@@ -1,0 +1,10 @@
+
+La clienta <PERSON> tiene el correo <EMAIL>.
+
+Su teléfono de contacto es <PHONE> y su DNI es <DNI_NIE>.
+
+La cuenta bancaria para la transferencia es <IBAN>.
+
+El expediente interno es EXP-2026-458 y debe conservarse.
+
+<SECRET>

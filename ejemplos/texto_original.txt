@@ -1,0 +1,10 @@
+
+La clienta Ana García tiene el correo ana@example.com.
+
+Su teléfono de contacto es 612345678 y su DNI es 12345678Z.
+
+La cuenta bancaria para la transferencia es ES9121000418450200051332.
+
+El expediente interno es EXP-2026-458 y debe conservarse.
+
+token: abcDEF123456789
