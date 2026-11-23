@@ -1,5 +1,0 @@
-La memoria incluirá una breve justificación de la correspondencia con A.8.12, 
-Referencias:
-ISO/IEC 27001:2022 — Sistemas de gestión de seguridad de la información (ISO)
-ISO/IEC 27002:2022 — Controles de seguridad de la información (ISO)
-ISACA — Guía al control 8.12 de ISO/IEC 27002:2022
